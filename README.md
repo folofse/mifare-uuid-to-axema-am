@@ -34,4 +34,6 @@ It can be done without running this code – simply:
 
 ## Real world example
 
+In this example I use my gym-access bracelet.
+
 ![image nfc-axema](./nfc-axema.png)
