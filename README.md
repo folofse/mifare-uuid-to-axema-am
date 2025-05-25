@@ -31,3 +31,7 @@ It can be done without running this code – simply:
 - Add the value to https://www.rapidtables.com/convert/number/hex-to-decimal.html and convert it
 - Add the resulting value to Axema Vaka Admin (extra tag).
   - It might need to be prefixed with 7 zeroes in Axema Vaka Admin, make sure to select the Mifare type.
+
+## Real world example
+
+![image nfc-axema](./nfc-axema.png)
