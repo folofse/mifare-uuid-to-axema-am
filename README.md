@@ -4,7 +4,7 @@ A simple script to get Axema AM code from Mifare Classic Tag UUID.
 
 ## WHY
 
-Allow any Mifare Classic tag to become the means of open your Axema door.
+Allow any Mifare Classic tag to become the means of open your Axema Controlled door. Don't pay extra for Axema branded tags.
 
 ## How does it work
 
