@@ -1,0 +1,22 @@
+{
+  "name": "mifare-uuid-to-axema-am",
+  "version": "1.0.0",
+  "description": "Derive Axema AM code from mifare UUID",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@types/node": "^22.15.21",
+    "ts-node": "^10.9.2",
+    "tsc": "^2.0.4",
+    "tslib": "^2.8.1",
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.4"
+  }
+}
